@@ -1,0 +1,17 @@
+.Modal {
+    min-width: 500px;
+    min-height: 300px;
+    background-color: white;
+    border-radius: 5px;
+    position: relative;
+}
+.Modal-close-btn {
+    position: absolute;
+    line-height: 1;
+    font-weight: bold;
+    font-size: 18px;
+    top: 10px;
+    right: 10px;
+    color: black;
+    cursor: pointer;
+}
